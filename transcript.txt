@@ -1,0 +1,72 @@
+Good afternoon, everyone. I'm Sai kamal. I'm a second-year student pursuing my Bachelor's of Technology in Computer science at Bharat Institute of Engineering and Technology. I'm going to present my business plan on the topic of Farmers assistance. I came up with this idea in my first semester. I even won the first place in our college hackathon for giving a presentation on a small part of this project. One and half year after coming up with the idea, I've researched, learnt, developed enough to consider this as my start-up idea.
+
+The tagline for the project is Annadatha Sukhibhava, which is a Sanskrit saying that says "Who are providing me with this food, bless them with Happiness". 
+
+Before I jump on right into the business prototype, it is important to discuss what problem statement I'm focusing on and what exactly is my solution. So here are the contents that I'm going to talk in this presentation. I'm given only 10 minutes so I'll keep it as short as I can.
+
+I took up Agriculture as my problem statement domain.
+
+So firstly, let us discuss my motive behind the problem statement.  
+
+Agriculture is the backbone of Indian economy. It is the only source of livelihood for more than 70 crores of farmers in India. And also,  the gross value added by Agriculture and other relavent industries in the FY 2019 is 18.55 Lakh crores. So undoubtedly, Agricuture sector in India is really crucial.
+
+But let us look at some of the issues we see in Agriculture: 
+
+1. The unpredictable weather: 
+We see so many crops being destroyed by sudden rains, and storms. With global warming and climate change, this will only become worse. Many insurance companies are collecting huge sums of money as premiums but when it comes to claims, many claims are ignored, be it due to the crops being destroyed due to heavy storms, change in soil condition and more. 
+
+2. Debt trap:
+More and more farmers are being stuck in the never ending de(b)t-trap. From a survey in the last decade, about 70% of farmers in Andhra Pradesh were in debt. But the stats have improved slightly in this decade.
+
+3. Loss of hope:
+It is very unfortunate to see that so many farmers are ending their lives due to crop failure. From a study in 2017, It was found out that about 19% of total loss of crops is due to sudden raifall or sudden storms. 
+
+4. Water wastage:
+The traditional irrigation methods currently being used in agriculture waste a lot of water. And, with our product, we aim to tackle all of these problems.
+
+   
+Slide 7: Coming to the problem statement, we just saw how huge the agriculture sector is. We were using letters to communicate with people 30 years ago when we didn't have a phone. 
+
+We looked up to the skies and used to wonder what would it be like to travel in space before 40 years. Now we have conquered the night skies with so many advancements in Space technology.
+
+With so many technological advancements in each and every industry, it is natural to adapt to change. But we're still employing farming techniques that are centuries old.
+
+So undoubtedly, we should start implementing the emerging technologies in Agriculture sector as well to overcome many existing problems.
+
+
+Slide 8: 
+
+Am I the only one who has come up with the idea of agro drone? No. There are so many countries that are already using Agrodrones. Agriculture in many developed countries is quite different than than in India. Because there are very less farmers in developed countries who in turn own hundreds of acres of land. So they can readily afford to agrodrones like DJI agro drones which cost around 15-20 Lakhs rupees. 
+
+Our proposed solution will cost 2% of that price.
+
+Slide 9: Talking about the services we provide, 
+we are building agro drones that can be used from Sowing seeds to harvesting of crops, an also capable of aerial mapping and health monitoring of crops. 
+
+The drones collect visual data that can be used in getting so many insights of crops such as the total production, cost, profit and so many other detailed insights. 
+
+We've already built a Chatbot and a weather assistant that rely on Machine Learning to answer queries related to farming, get weather forecast from 15 days ahead.   
+
+
+Slide 10: Coming to the most important part of this presentation, our business prototype.
+
+Slide 11: Before we discuss about many parameters like customer relationships, value proportions and more, let us look at our cost structure and revenue streams.
+
+We've built a working drone for 11,000 INR earlier right from scratch. But with added sensors, it will take about 15-20,000 INR for each drone. But bulk manufacturing is always going to cost way less than building a single drone. We are heavily relying on Technology for our analytics and applications. With my experience in working on various cloud technologies like Azure, Aws, Google cloud. It will only cost 16,000 rupees per yer for our cloud infrastructure. And the advertising and adminstration is being managed by us which won't cost us a lot. Of course this is only a part of the cost structure. There are so many other hidden costs as well. 
+
+
+And talking about the revenue we'll get, 
+Each drone if sold for 25,000 INR, we are talking about 65 L per 250 drones. And with our affiliate business to lead customers into various e-commerce platforms, the revenue is said to be around 20-25 L.
+
+With crowdfunding, possible investors, around 10 more Lakhs can be raised in the first year. We'll have advertisements in our applications and websites that 's another small income stream.
+
+Again, the revenue will depend on so many factors. But these are a good rough estimates.  
+
+Slide 12: Our cost structures and Return of investment will not be constant. It will depend on so many external factors and also the mass production. If the production is too high, we'll be requiring huge manufacturing plants. That will in turn decrease the profit margin. 
+
+There are 70 crores of farmers in our country and if our target buyers are ony 1 %  of the farmers, we're still talking about 7 crore farmers. That is why Indian market is so huge. And a lot of foriegn companies are making changes in their products to accomadate indian market. 
+
+Every huge start-up always starts in a room with an idea. And this is my idea. I'm not looking to run behind profits. I'm looking to revolutionize farming in our country. There are various start-ups like Cred, Zomato, Ola, Paytm, Oyo that are going into huge losses every year. But the aim to survive as long as we can. And I have the same idea. 
+
+
+There was so much more to talk but I shouldn't forget about the time limit. So this was my Business prototype. I would love any feedback I get. Thank you everyone for giving me such wonderful oppurtunity.     
